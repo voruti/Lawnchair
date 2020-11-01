@@ -285,6 +285,7 @@ allprojects {
 }
 
 dependencies {
+    implementation 'com.farmerbb:libtaskbar:2.0.0'
     implementation "com.android.support:appcompat-v7:${SUPPORT_LIBS_VERSION}"
     implementation "com.android.support:cardview-v7:${SUPPORT_LIBS_VERSION}"
     implementation "com.android.support:design:${SUPPORT_LIBS_VERSION}"
